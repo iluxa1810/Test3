@@ -8,5 +8,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!1");
         }
+        public void Test()
+        {
+
+        }
     }
 }
